@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Tiffany Tran's First CS193 Lab
 
- -How flexible the class is
- -How the instructors and TA's are really looking out for you
- -The fact that it teaches you the basics 
+ - How flexible the class is
+ - How the instructors and TA's are really looking out for you
+ - The fact that it teaches you the basics 
 
 ### Markdown
 
